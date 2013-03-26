@@ -1,4 +1,6 @@
-# grunt-usemin [![Build Status](https://secure.travis-ci.org/yeoman/grunt-usemin.png?branch=master)](http://travis-ci.org/yeoman/grunt-usemin)
+# grunt-usemin
+
+> This is a customized version of grunt-usemin that plays nicely with the [Baker](https://github.com/thebakeryio/baker) by supporting almond based build for require.js compiled modules
 
 > Replaces references to non-optimized scripts or stylesheets into a set of HTML files (or any templates/views).
 
